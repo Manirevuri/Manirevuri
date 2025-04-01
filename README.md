@@ -53,15 +53,18 @@ Platform sponsored by Bluedot Impact to raise awareness and promote discussions 
 ![Vercel AI](https://img.shields.io/badge/-Vercel%20AI-000000?style=flat-square&logo=vercel)
 ![LangGraph AI](https://img.shields.io/badge/-LangGraph%20AI-000000?style=flat-square&logo=langgraph)
 
-## 🏆 Achievements
-- AWS Certified Solutions Architect - Associate
+## Achievements
+- Association for the Advancement of Artificial Intelligence (March 2025): Special Mention for innovative research in Artificial Intelligence for Lung AI A wearable that tracks PM1, PM2.5 & PM10 in real time using Small Language Models.
 - Ranked in the Top-50 nationally in India - CSI Discover Thinking Programming Contest
 
-## 📚 Education
+## Certifications
+- AWS Certified Solutions Architect - Associate
+
+## Education
 - **Master of Science in Software Design & Programming**  
   University of Denver (2022-2024)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://git-stats-six-omega.vercel.app/api?username=manirevuri&show_icons=true&theme=dracula&cache_seconds=21600\&rank_icon=github&include_all_commits=true)
 
