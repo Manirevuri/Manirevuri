@@ -51,6 +51,7 @@ Platform sponsored by Bluedot Impact to raise awareness and promote discussions 
 ### AI/ML
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai)
 ![Vercel AI](https://img.shields.io/badge/-Vercel%20AI-000000?style=flat-square&logo=vercel)
+![LangGraph AI](https://img.shields.io/badge/-LangGraph%20AI-000000?style=flat-square&logo=langgraph)
 
 ## 🏆 Achievements
 - AWS Certified Solutions Architect - Associate
